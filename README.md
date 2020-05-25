@@ -1,2 +1,2 @@
-# everythingfarm1.com
+# everythingfarm.com
 farm blog
